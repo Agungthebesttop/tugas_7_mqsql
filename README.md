@@ -1,1 +1,1 @@
-# tugas_7_mqsql
+# tugas_7_mysql
